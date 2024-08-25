@@ -11,3 +11,8 @@
 <img src='https://github.com/gabrielmotablima/DS000--data-ai/assets/31813682/b0ad1f54-6af3-4522-9360-deab409a174d' width='400'>
 <img src='https://github.com/gabrielmotablima/DS002--churn-solutions--Telecom/assets/31813682/1ff7993c-a37a-45d7-a104-012aefc7ef2d' width='300'>
 </p>
+
+🎲 **[DS003 - Adversarial Network Attack (GoCache)](https://github.com/GabrielMotaBLima/DS002--churn-solutions--Telecom):** Time series anomaly detection analysis to get business insights and propose strategies to mitigate network attacks and preserve the clients websites integrity.
+<p align="center">
+<img src='https://github.com/user-attachments/assets/dc372d4b-f833-4bb6-abfb-da209ffa1a31' height='250'>
+</p>
